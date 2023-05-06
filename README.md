@@ -25,7 +25,7 @@
 ### Apply
 
 1. Open Geany
-2. Go to the `view` tab >> `Change color scheme` >> pick your desired `Rosé Pine Moon`
+2. Go to the `view` tab >> `Change color scheme` >> pick `Rosé Pine Moon`
 
 ## Credit
 Reskinned from [Catppuccin for Geany](https://github.com/catppuccin/geany)
