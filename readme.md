@@ -13,25 +13,25 @@
 
 ## Usage
 
-### Installation
+1. Copy <kbd>rosepine-moon.conf</kbd> to your colorschemes.
 
-#### Linux
+   ```sh
+   # Linux/macOS
+   ~/.config/geany/colorschemes/
 
-* Copy <kbd>rosepine-moon.conf</kbd> to /.config/geany/colorschemes/
+   # Windows
+   C:\Program Files\Geany\data\colorschemes\
+   ```
 
-#### Windows
-* Copy <kbd>rosepine-moon.conf</kbd> to `C:\Program Files\Geany\data\colorschemes\`
+2. Open [Geany](https://www.geany.org)
+3. Go to the "view" tab &rarr; "Change color scheme" &rarr; pick "Rosé Pine Moon"
 
-### Apply
+## Gallery
 
-1. Open Geany
-2. Go to the `view` tab >> `Change color scheme` >> pick `Rosé Pine Moon`
+> Nothing to see here just yet! If you fancy submitting a Pull Request we would be delighted 💜
 
-## Credit
-Reskinned from [Catppuccin for Geany](https://github.com/catppuccin/geany)
+## Thanks to
 
-## 💝 Thanks to
-
--   [Waxxx333 ](https://github.com/Waxxx333)
--   [Isabelincorp ](https://github.com/isabelincorp)
-&nbsp;
+- [Waxxx333 ](https://github.com/Waxxx333)
+- [Isabelincorp ](https://github.com/isabelincorp)
+- [Catppuccin](https://github.com/catppuccin/geany)
