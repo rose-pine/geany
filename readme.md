@@ -34,4 +34,4 @@
 
 - [Waxxx333 ](https://github.com/Waxxx333)
 - [Isabelincorp ](https://github.com/isabelincorp)
-- [Catppuccin](https://github.com/catppuccin/geany)
+- [Catppuccin for Geany](https://github.com/catppuccin/geany) ([license](https://github.com/rose-pine/geany/blob/3182eea7254d7b3e3b25b1988cbdfb3576bd56a4/LICENSE))
