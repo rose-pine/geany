@@ -26,10 +26,6 @@
 2. Open [Geany](https://www.geany.org)
 3. Go to the "view" tab &rarr; "Change color scheme" &rarr; pick "Rosé Pine Moon"
 
-## Gallery
-
-> Nothing to see here just yet! If you fancy submitting a Pull Request we would be delighted 💜
-
 ## Thanks to
 
 - [Waxxx333 ](https://github.com/Waxxx333)
